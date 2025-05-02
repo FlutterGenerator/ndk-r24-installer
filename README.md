@@ -1,6 +1,6 @@
 # ndk-r24-r27b-installer
 This bash script will install ndk r24 r27b from jzinferno assets to AndroidIDE app.
-# - Install NDK-R24 NDK-R27B for AndroidIDE in one command :
+# Install NDK-R24 NDK-R27B for AndroidIDE in one command :
 # Termux code ndk-r24 1 bash
 ```
 wget https://github.com/FlutterGenerator/ndk-r24-installer/raw/main/ndk-install1.sh && chmod +x ndk-install1.sh && ./ndk-install1.sh
